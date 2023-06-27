@@ -1,0 +1,9 @@
+Section "InputClass"
+  Identifier "ETPS/2 Elantech Touchpad"
+  MatchDriver "libinput"
+
+  MatchIsTouchpad "on"
+  MatchDevicePath "/dev/input/event*"
+  Option "Tapping" "on"
+  Option "NaturalScrolling" "true"
+EndSection

@@ -1,0 +1,25 @@
+
+{
+  "white": ["#ffffff", "#ffffff"],
+  "dark": ["#282c34", "#282c34"],
+  "lightgrey": ["#c8d3f5", "#c8d3f5"],
+  "grey": ["#abb2bf", "#abb2bf"],
+  "grey1": ["#4c566a", "#4c566a"],
+  "grey2": ["#353c4a", "#353c4a"],
+  "grey3": ["#0f101a", "#0f101a"],
+  "red": ["#e06c75", "#e06c75"],
+  "red1": ["#d45079", "#d45079"],
+  "green": ["#98c379", "#98c379"],
+  "yellow": ["#e5c07b", "#e5c07b"],
+  "orange": ["#ff966c", "#ff966c"],
+  "blue": ["#61afef", "#61afef"],
+  "magenta": ["#c678dd", "#c678dd"],
+  "cyan": ["#56b6c2", "#56b6c2"],
+  "purple": ["#fca7ea", "#fca7ea"],
+  "bg": ["#282c34", "#282c34"],
+  "fg": ["#abb2bf", "#abb2bf"],
+  "focus": ["#c678dd", "#c678dd"],
+  "active": ["#f1ffff", "#f1ffff"],
+  "inactive": ["#4c566a", "#4c566a"],
+  "urgent": ["#d45079", "#d45079"]
+}
